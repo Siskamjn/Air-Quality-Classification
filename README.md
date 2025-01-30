@@ -18,26 +18,6 @@ Scikit-Learn (Support Vector Machine, GridSearchCV)
 Pandas
 Matplotlib
 
-📷 Screenshots
-
-🔧 How to Run
-Clone this repository:
-bash
-Copy
-Edit
-git clone https://github.com/siskamjn/Air-Quality-Classification.git
-cd Air-Quality-Classification
-Install dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the classification script:
-bash
-Copy
-Edit
-python classify_air_quality.py
-
 📌 Future Improvements
 Expand dataset for better generalization.
 Integrate real-time air quality data sources.
